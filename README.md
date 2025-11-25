@@ -6,10 +6,8 @@ FastAPI 기반 백엔드 & 자동화 중심의 실용 AI 시스템을 만드는 
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourprofile)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://notion.so/yourpage)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your_email@example.com)
-
+[![Notion](https://www.notion.so/4a0c7221b0994c6a967ab537a8d13f75)](https://notion.so/yourpage)
+email : hhjhj95@gmail.com
 </div>
 
 ---
